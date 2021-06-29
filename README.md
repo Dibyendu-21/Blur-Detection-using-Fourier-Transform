@@ -13,5 +13,7 @@ This repo shows the use of Fast Fourier Transform (FFT) to perform blur detectio
 * Set the blur condition by evaluating whether the mean value of the magnitude is less than the threshold value.
 * Applying blur detector on the test image to detect whether it is blurry or not.
 
+![Blurry Image](Output/Output_Blurry.png?raw=true)
 
-![Noisy Image](Input/Noisy_Image.png?raw=true)
+![Blurry Image](Output/Output_Non_Blurry.png?raw=true)
+
